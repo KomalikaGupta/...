@@ -1,0 +1,87 @@
+        program: A set of instructions with specific task is called as "program".
+
+ 
+software: A set of programs or collection of programs with multiple task is called as "software".
+
+   software types
+  1)System software:which software understandble by the machine lang that is "system software".
+  it is developed based on c,c++ program langs.
+   example:o.s
+  ms-dos,ms-windows,unix,linux
+ 
+2)Application software:Which software understandble by the user instructions that is "application software"
+  1)stand-alone:this software can execute on single machine.this software is called as "desktop" applications.
+ex:  ms-office,anti-virus,media player..etc
+ 2)web-application:this software can execute any machine with help of browser.this software supported "network".[LAN,WAN]
+  ex: google,facebook..etc
+3)mobile:
+these can execute in smartphones or tabs
+ex: whatsapp,instagram...etc
+  note:the above stand-alone,web applications developed using "java"  or ".net"
+
+ 
+   c=> c++ => java =>python
+   JAVA:
+  1)it is one of the high-level programing lang.
+ 2)it is developed by sun microsystems in 1995 .
+  "james ghosling" and "team" developed "oak" software.
+ it is also called "java"
+
+
+   translators:
+      1)compiler-   all lines convert into machine code.
+          ex:c[TURBOC,DEVC,..],c++,java,.net...
+      2)interpreter- step by step convert into machine code.
+            ex:html,jscript,python,java
+
+
+               JDK [JAVA DEVELOPMENT KIT]
+ JVM[JAVA VIRTUAL MACHINE]
+   INTERPRETER + COMPILER
+  
+ java programing lang features:
+
+
+
+1)simple programing:it is simple to created code compare to c,c++.
+ 2)object-oriented programing:it is one of the fully-object oriented programing.In this the code created based on "classes and objects."
+  3)secured:it is one of the high-level security in built java programs.
+4)portable:One machine java code easy code access to another machine.
+5)platform independent:it is one of the platform independent programin lang that means one machine java code can execute any o.s with help of "jvm".
+  6)dynamic :java is a dynamic memory allocation program lang.these is no memory wastage because of "garbage collector".
+7)interpreter:it is one of the interpret class file into bytes code with help of "jvm".
+8)robust: it is one of the strong programing lang "high memory "features and "exception handling"
+9)multi-threading:it is one of major feature of java program.thread is nothing but "task".multiple threads at a time can execute parrell.it is save the execution time.
+    using java type of applications:
+   1)stand-alone[notepad]
+  2)webbased[facebook]
+3)enterprise[banking]
+4)mobile[android]
+5)games
+6)bigdata process[hadoop]
+ 7)selinum [testing tools]
+     java editions:
+  1)J2SE[JAVA to STANDARD EDITION] =core java
+  2)J2EE [JAVA TO ENTERPRISE EDITION] =advanced java =>frameworks
+3)J2ME[JAVA TO MICRO EDITION]=   android
+      J2SE:this edition is used to develop the stand alone application with help of 'oops'
+  J2EE:this edition is used to develop the web application with help of JSP,JDBC,SERVELETS,....
+J2ME:this edition is used to develop mobile applications with help of "ANDROID"
+     JDK [JRE + JVM]
+  JDK DOWNLOAD FOR WINDOWS 7/8/10
+  www.oracle.com
+  |
+downloads
+  |
+java se for 32/64
+  |
+c:\programfiles\java\jdk1.8.0\bin
+  |
+.jar =>install
+ |
+ java=>jdk
+         jre
+  simple java program:
+  add.java =>add.class=>add.exe
+ javac add.java
+ java add
